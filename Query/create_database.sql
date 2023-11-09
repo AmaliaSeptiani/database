@@ -1,1 +1,1 @@
-create DB
+create DATABASE online_retail_app;
